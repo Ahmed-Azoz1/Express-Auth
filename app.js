@@ -40,6 +40,8 @@ app.post('/register',async(req,res)=>{
     }
 })
 
+app.post("")
+
 
 app.listen(port,()=>{
     console.log(`Server is Started On Port ${port}`)
